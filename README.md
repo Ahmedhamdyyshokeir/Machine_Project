@@ -65,9 +65,9 @@ SalaryApp/
 
 | Model              | Accuracy |
 |-------------------|----------|
-| Logistic Regression | ~78%    |
-| Random Forest       | ~85% ✅ (Best) |
-| SVC                 | ~80%    |
+| Logistic Regression | ~82%    |
+| Random Forest       | ~89% ✅ (Best) |
+| SVC                 | ~84%    |
 
 The **Random Forest Classifier** gave the best performance and was used in deployment.
 
