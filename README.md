@@ -24,7 +24,7 @@ This is a machine learning web application built with **Flask** that predicts wh
 
 - Cleaned dataset using Pandas
 - Feature encoding with `pd.get_dummies()`
-- Feature selection via `SelectKBest` + `f_classif`
+- Feature selection via `Filter method'
 - Model training with classification algorithms
 - Model + feature columns saved using `joblib`
 
