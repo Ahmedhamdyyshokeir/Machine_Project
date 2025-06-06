@@ -76,7 +76,7 @@ The **Random Forest Classifier** gave the best performance and was used in deplo
 ## 🌐 How to Run Locally
 
 ```bash
-git clone https://github.com/yourusername/Machine_Project.git
+git clone https://github.com/Machine_Project.git
 cd Machine_Project
 pip install -r requirements.txt
 python app.py
